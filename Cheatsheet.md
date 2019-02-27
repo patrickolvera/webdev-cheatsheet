@@ -23,3 +23,14 @@
 refactor: refactoring production code
 * **test**: adding tests, refactoring test; no production code change
 * **chore**: updating build tasks, package manager configs, etc; no production code change
+
+### Commands
+
+**rename file:**
+    git mv app.js App.js
+
+**Adding a remote**
+    git remote add $REPO_URL
+
+**Verify remote**
+    git remote -v
