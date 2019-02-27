@@ -2,6 +2,10 @@
 
 ## Git:
 
+### Resources
+
+* [Atlassian tutorials](https://www.atlassian.com/git/tutorials)
+
 ### Style Guide
 
     type: subject (required)
